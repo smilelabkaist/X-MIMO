@@ -1,2 +1,2 @@
 # X-MIMO
-This repository is under construction. Our code would be released soon!
+This repository is under construction. Our codes would be released soon!
