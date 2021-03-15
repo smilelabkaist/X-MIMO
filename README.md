@@ -3,7 +3,9 @@ Welcome to our Corss-technology Channel Estimation Tool. Out tool consists of tw
 
 To understand how our tool is operated, we provide two demos for wireless router users:
 
-[![Watch the video](http://mason.gmu.edu/~swang42/resources/system_1.png)](https://youtu.be/zoNW761Damo)
+
+
+[![Watch the video](http://mason.gmu.edu/~swang42/resources/text3082-4-6-1-6-6-1-1.png)](https://youtu.be/zoNW761Damo)
 
 And WNIC users:
 
